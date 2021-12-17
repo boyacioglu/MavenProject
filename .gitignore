@@ -1,0 +1,5 @@
+/.idea/
+/target/
+/target/generated-test-sources/
+/target/generated-test-sources/test-annotations/
+*.iml
